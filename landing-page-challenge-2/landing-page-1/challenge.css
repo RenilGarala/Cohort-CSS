@@ -63,7 +63,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(rgba(0,0,0,0.2)), linear-gradient(0,0,0,0.2),  url(./assets/chaigym.png) ;
+  background: linear-gradient(rgba(0,0,0,0.2)), linear-gradient(rgba(0,0,0,0.2)), url(./assets/chaigym.png);
 }
 
 .hero-content {
